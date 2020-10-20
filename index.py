@@ -1,3 +1,5 @@
+import os
+import time
 i=input("Say my name? " )
 if i == "Heisenberg":
     print("You're Goddamn right!")
